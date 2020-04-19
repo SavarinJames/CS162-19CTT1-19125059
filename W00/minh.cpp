@@ -4,5 +4,5 @@
 //this is example
 int sum(int a, int b){
     return a + b;
-    //day la file da duoc chinh sua o TEST
+    // LMAo Changing part 2
 }
